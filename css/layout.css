@@ -1,0 +1,59 @@
+/*header部分样式*/
+.header-top{
+	height:69px;
+	background:#2b3a41;
+
+}
+.header-middle{
+	height:495px;
+	position:relative;
+}
+.header-bottom{
+	height:67px;
+	background:#2b3a41;
+}
+/*main部分样式*/
+.main1{
+	height:123px;
+	background:#e4e5e3;
+}
+.main2{
+	height:680px;
+	background:#ededea;
+}
+.main2-left{
+	width:509px;
+	height:562px;
+	float:left;
+	margin-top:40px;
+}
+.main2-right{
+	width:450px;
+	height:564px;
+	float:right;
+	margin-top:42px;
+	margin-right:3px;
+}
+.main2-right-1,.main2-right-2{
+	width:100%;
+	height:228px;
+	background:#faf9f9;
+	margin-bottom:31px;
+}
+.main2-right-3{
+	width:100%;
+	height:46px;
+}
+/*footer部分样式*/
+.footer-top{
+	height:31px;
+	background:#2b3a41;
+}
+.footer-middle{
+	height:339px;
+	background:#8d8f97;
+}
+.footer-bottom{
+	height:67px;
+	background:#b8b9bd;
+}
